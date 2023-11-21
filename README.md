@@ -4,7 +4,7 @@ El examen está resuelto con todo el amor y el padreo posible.
 
 ## Instrucciones para levantar el container:
 
-1. Clonar el repositorio o descargar la información que se encuentra en este [enlace]
+1. Clonar el repositorio o descargar la información que se encuentra en este.
    (NOTA: se proporcionará un archivo.zip con la información de Florida Oberta).
 
 2. Una vez descargada la información, asegurarse de contar con todos estos archivos:
