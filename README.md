@@ -3,6 +3,8 @@ Roberto Martinez
 
 El examen está resuelto con todo el amor y el padreo posible.
 
+"Devoró" - se usa para cuando una persona lo hace muy bien. Ejemplo: Devoraste en la presentacion. (La presentacion le salio excelente)
+
 ## Instrucciones para levantar el container:
 
 1. Clonar el repositorio o descargar la información que se encuentra en este.
